@@ -6,7 +6,7 @@ public class TempatDuduk {
     public static void main(String[] args) {
        
         // Membuat Array dan Scanner [baris dan kolom ]
-        String[][] kursi = new String[5][2];
+        String[][] kursi = new String[5][3];
         Scanner input = new Scanner(System.in);
         
         // mengisi setiap kursi
